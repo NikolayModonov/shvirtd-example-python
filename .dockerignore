@@ -1,0 +1,15 @@
+.git
+.gitignore
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+Dockerfile
+Dockerfile.python
+compose.yaml
+proxy.yaml
+schema.pdf
+README.md
+LICENSE
